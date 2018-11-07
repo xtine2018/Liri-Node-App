@@ -994,3 +994,247 @@ Album: Scream
 Preview: https://p.scdn.co/mp3-preview/41d3639dcb9fa25f07fb849730718a62538c6237?cid=f23383d604904702833a4fac80dcb3be
 Song: Thriller
 Artist: Michael Jackson
+Date: 03/18/2019Name: Times Union CenterCity: Albany
+Country: MA
+Country: United States
+Date: 03/22/2019Name: KeyBank CenterCity: Buffalo
+Country: NY
+Country: United States
+Date: 03/25/2019Name: Capitol One ArenaCity: Washington
+Country: DC
+Country: United States
+Date: 03/26/2019Name: Wells Fargo CenterCity: Philadelphia
+Country: PA
+Country: United States
+Date: 03/28/2019Name: Quicken Loans ArenaCity: Cleveland
+Country: OH
+Country: United States
+Date: 03/30/2019Name: Mohegan Sun ArenaCity: Uncasville
+Country: CT
+Country: United States
+Date: 04/01/2019Name: Bell CentreCity: Montréal
+Country: Canada
+Date: 04/03/2019Name: Scotiabank ArenaCity: Toronto
+Country: Canada
+Date: 04/05/2019Name: Little Caesars ArenaCity: Detroit
+Country: MI
+Country: United States
+Date: 04/07/2019Name: United CenterCity: Chicago
+Country: IL
+Country: United States
+Date: 04/10/2019Name: The Schottenstein CenterCity: Columbus
+Country: OH
+Country: United States
+Date: 04/12/2019Name: Bankers Life FieldhouseCity: Indianapolis
+Country: IN
+Country: United States
+Date: 04/13/2019Name: Enterprise CenterCity: St. Louis
+Country: MO
+Country: United States
+Date: 04/15/2019Name: Fiserv ForumCity: Milwaukee
+Country: WI
+Country: United States
+Country: MN
+Date: 04/17/2019Name: Xcel Energy CenterCity: St Paul
+Country: United States
+Date: 04/18/2019Name: CHI Health CenterCity: Omaha
+Country: NE
+Country: United States
+Date: 04/20/2019Name: Pepsi CenterCity: Denver
+Country: CO
+Country: United States
+Date: 04/22/2019Name: Vivint Smart Home ArenaCity: Salt Lake City
+Country: UT
+Country: United States
+Date: 04/25/2019Name: Rogers PlaceCity: Edmonton
+Country: Canada
+Date: 04/27/2019Name: Rogers ArenaCity: Vancouver
+Country: Canada
+Date: 04/30/2019Name: Moda CenterCity: Portland
+Country: OR
+Country: United States
+Date: 05/02/2019Name: SAP CenterCity: San Jose
+Country: CA
+Country: United States
+Date: 05/03/2019Name: Golden 1 CenterCity: Sacramento
+Country: CA
+Country: United States
+Date: 05/06/2019Name: STAPLES CenterCity: Los Angeles
+Country: CA
+Country: United States
+Date: 05/10/2019Name: The ForumCity: Los Angeles
+Country: CA
+Country: United States
+Date: 05/14/2019Name: Talking Stick Resort ArenaCity: Phoenix
+Country: AZ
+Country: United States
+Date: 05/17/2019Name: AT&T CenterCity: San Antonio
+Country: TX
+Country: United States
+Date: 05/19/2019Name: Toyota CenterCity: Houston
+Country: TX
+Country: United States
+Date: 05/21/2019Name: American Airlines CenterCity: Dallas
+Country: TX
+Country: United States
+Date: 05/23/2019Name: Chesapeake Energy ArenaCity: Oklahoma City
+Country: OK
+Country: United States
+Country: United States
+Country: LA
+Country: United States
+Date: 05/28/2019Name: Amalie ArenaCity: Tampa
+Country: FL
+Country: United States
+Date: 05/29/2019Name: Amway CenterCity: Orlando
+Country: FL
+Date: 03/20/2019Name: TD GardenCity: Boston
+Date: 05/31/2019Name: American Airlines ArenaCity: Miami
+Country: FL
+Date: 05/25/2019Name: Smoothie King CenterCity: New Orleans
+Country: NC
+Country: United States
+Country: United States
+Date: 06/07/2019Name: Bridgestone ArenaCity: Nashville
+Country: United States
+Country: United States
+Date: 06/08/2019Name: State Farm ArenaCity: Atlanta
+Country: GA
+Country: United States
+Date: 06/10/2019Name: Spectrum CenterCity: Charlotte
+Country: NC
+Country: United States
+Date: 06/12/2019Name: PPG Paints ArenaCity: Pittsburgh
+Country: PA
+Country: United States
+Date: 06/14/2019Name: Barclays CenterCity: Brooklyn
+Country: NY
+Country: United States
+Country: NY
+Country: NY
+Country: United States
+Date: 06/04/2019Name: PNC ArenaCity: Raleigh
+Country: TN
+Date: 06/18/2019Name: Madison Square GardenCity: New York
+Date: 03/18/2019Name: Times Union CenterCity: Albany
+Country: NY
+Date: 03/20/2019Name: TD GardenCity: Boston
+Country: MA
+Country: United States
+Date: 03/22/2019Name: KeyBank CenterCity: Buffalo
+Country: NY
+Country: DC
+Country: United States
+Date: 03/26/2019Name: Wells Fargo CenterCity: Philadelphia
+Country: PA
+Country: United States
+Date: 03/28/2019Name: Quicken Loans ArenaCity: Cleveland
+Country: OH
+Country: United States
+Date: 03/25/2019Name: Capitol One ArenaCity: Washington
+Date: 03/30/2019Name: Mohegan Sun ArenaCity: Uncasville
+Country: United States
+Date: 04/01/2019Name: Bell CentreCity: Montréal
+Country: Canada
+Date: 04/03/2019Name: Scotiabank ArenaCity: Toronto
+Country: Canada
+Date: 04/05/2019Name: Little Caesars ArenaCity: Detroit
+Country: MI
+Country: United States
+Date: 04/07/2019Name: United CenterCity: Chicago
+Country: IL
+Country: United States
+Date: 04/10/2019Name: The Schottenstein CenterCity: Columbus
+Country: United States
+Country: United States
+Date: 04/12/2019Name: Bankers Life FieldhouseCity: Indianapolis
+Country: IN
+Country: United States
+Date: 04/13/2019Name: Enterprise CenterCity: St. Louis
+Country: MO
+Country: United States
+Country: WI
+Date: 04/15/2019Name: Fiserv ForumCity: Milwaukee
+Country: United States
+Country: MN
+Date: 04/17/2019Name: Xcel Energy CenterCity: St Paul
+Country: United States
+Date: 04/18/2019Name: CHI Health CenterCity: Omaha
+Country: NE
+Country: United States
+Date: 04/20/2019Name: Pepsi CenterCity: Denver
+Country: CO
+Country: United States
+Date: 04/22/2019Name: Vivint Smart Home ArenaCity: Salt Lake City
+Country: UT
+Country: United States
+Country: CT
+Country: Canada
+Date: 04/27/2019Name: Rogers ArenaCity: Vancouver
+Country: Canada
+Country: OR
+Date: 04/30/2019Name: Moda CenterCity: Portland
+Country: United States
+Date: 05/02/2019Name: SAP CenterCity: San Jose
+Country: CA
+Country: United States
+Country: OH
+Country: CA
+Country: United States
+Date: 05/06/2019Name: STAPLES CenterCity: Los Angeles
+Country: CA
+Country: United States
+Date: 05/10/2019Name: The ForumCity: Los Angeles
+Country: CA
+Country: United States
+Date: 05/14/2019Name: Talking Stick Resort ArenaCity: Phoenix
+Country: AZ
+Country: United States
+Date: 05/17/2019Name: AT&T CenterCity: San Antonio
+Country: TX
+Country: United States
+Date: 05/19/2019Name: Toyota CenterCity: Houston
+Country: TX
+Country: United States
+Date: 05/21/2019Name: American Airlines CenterCity: Dallas
+Country: TX
+Country: United States
+Country: United States
+Country: OK
+Country: United States
+Date: 05/25/2019Name: Smoothie King CenterCity: New Orleans
+Country: LA
+Country: United States
+Date: 05/28/2019Name: Amalie ArenaCity: Tampa
+Country: FL
+Country: United States
+Date: 05/29/2019Name: Amway CenterCity: Orlando
+Country: FL
+Date: 04/25/2019Name: Rogers PlaceCity: Edmonton
+Date: 05/31/2019Name: American Airlines ArenaCity: Miami
+Country: FL
+Country: United States
+Date: 05/23/2019Name: Chesapeake Energy ArenaCity: Oklahoma City
+Country: NC
+Country: United States
+Date: 06/07/2019Name: Bridgestone ArenaCity: Nashville
+Country: TN
+Country: United States
+Date: 06/08/2019Name: State Farm ArenaCity: Atlanta
+Country: GA
+Country: United States
+Date: 06/10/2019Name: Spectrum CenterCity: Charlotte
+Country: NC
+Country: United States
+Date: 06/12/2019Name: PPG Paints ArenaCity: Pittsburgh
+Country: United States
+Country: United States
+Date: 06/14/2019Name: Barclays CenterCity: Brooklyn
+Country: NY
+Country: United States
+Date: 06/04/2019Name: PNC ArenaCity: Raleigh
+Country: NY
+Country: United States
+Date: 05/03/2019Name: Golden 1 CenterCity: Sacramento
+Country: PA
+Date: 06/18/2019Name: Madison Square GardenCity: New York
