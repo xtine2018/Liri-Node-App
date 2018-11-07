@@ -28,18 +28,18 @@ function switchCase() {
 function bandsInTown(parameter){
 
 if (action === 'concert-this') {
-	var movie="";
+	var concert="";
 	for (var i = 3; i < process.argv.length; i++) {
-		movie+=process.argv[i];
+		concert+=process.argv[i];
 	}
-	console.log(movie);
+	console.log(concert);
 }
 else
 {
-	movie = parameter;
+	concert = parameter;
 }
 
-var queryUrl = "https://rest.bandsintown.com/artists/"+movie+"/events?app_id=codingbootcamp";
+var queryUrl = "https://rest.bandsintown.com/artists/"+concert+"/events?app_id=codingbootcamp";
 request(queryUrl, function(error, response, body) {
   if (!error && response.statusCode === 200) {
 
